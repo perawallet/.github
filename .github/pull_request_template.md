@@ -13,6 +13,7 @@
 - [ ] Have you documented any necessary changes in the project's documentation?
 - [ ] Have you added any necessary tests for your changes?
 - [ ] Have you updated any relevant dependencies?
+- [ ] I agree with Pera's [Contributor License Agreement](https://github.com/perawallet/.github/blob/main/CLA.md)
 
 ## Additional Notes
 - Add any additional notes or comments that may be helpful for reviewers.
